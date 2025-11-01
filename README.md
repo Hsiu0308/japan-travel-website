@@ -65,7 +65,7 @@ sass --watch style/style.scss style/style.css
 
 ## 作者
 
-Hensel Huang
+Hansel Huang
 
 ## 授權
 
