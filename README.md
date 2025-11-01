@@ -1,14 +1,14 @@
 # 專案名稱：Japan Travel Website
 
+## 日本旅遊網站
+
+這是一個展示日本旅遊景點和文化的響應式網站專案。
+
 ## 🚀 即時網站預覽 (Live Demo)
 
 [**https://Hsiu0308.github.io/japan-travel-website/**](https://hsiu0308.github.io/japan-travel-website/)
 
 ---
-
-# 日本旅遊網站
-
-這是一個展示日本旅遊景點和文化的響應式網站專案。
 
 ## 專案結構
 
@@ -65,7 +65,7 @@ sass --watch style/style.scss style/style.css
 
 ## 作者
 
-Hansel Huang
+Hensel Huang
 
 ## 授權
 
